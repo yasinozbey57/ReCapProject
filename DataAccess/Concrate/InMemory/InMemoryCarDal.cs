@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace DataAccess.Concrate
+namespace DataAccess.Concrate.InMemory
 {
     public class InMemoryCarDal : ICarDal
     {
